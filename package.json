@@ -1,0 +1,25 @@
+{
+  "name": "ramga",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "import React from \"react\";\r import { BrowserRouter as Router, Route, Routes, Link } from \"react-router-dom\";\r import { Button } from \"@/components/ui/button\";",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamGanesh16/MadrasDesk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RamGanesh16/MadrasDesk/issues"
+  },
+  "homepage": "https://github.com/RamGanesh16/MadrasDesk#readme",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
