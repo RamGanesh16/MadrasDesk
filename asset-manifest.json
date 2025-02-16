@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/MadrasDesk/static/js/main.58c67b62.js",
+    "main.js": "/MadrasDesk/static/js/main.c1d8217e.js",
     "index.html": "/MadrasDesk/index.html",
-    "main.58c67b62.js.map": "/MadrasDesk/static/js/main.58c67b62.js.map"
+    "main.c1d8217e.js.map": "/MadrasDesk/static/js/main.c1d8217e.js.map"
   },
   "entrypoints": [
-    "static/js/main.58c67b62.js"
+    "static/js/main.c1d8217e.js"
   ]
 }
